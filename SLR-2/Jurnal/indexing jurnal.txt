@@ -1,0 +1,49 @@
+Using Diagnostic Classification Models in Psychological Rating Scales
+2020
+google schoolar
+https://www.tqmp.org/RegularArticles/vol16-5/p442/p442.pdf
+
+A Machine Learning Approach for Personality Type Identification using MBTI Framework
+2021
+google scholar : https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&as_ylo=2021&q=test+16+personality+machine+learning&btnG=
+http://jisrc.szabist.edu.pk/index.php/jisrc/article/view/168
+
+How do you feel during the COVID-19 pandemic? A survey using psychological and linguistic self-report measures, and machine learning to investigate mental health, subjective experience, personality, and behaviour during the COVID-19 pandemic among university students
+2021
+google scholar : https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&as_ylo=2021&q=16+personality+traits+machine+learning&btnG=
+https://bmcpsychology.biomedcentral.com/articles/10.1186/s40359-021-00574-x#Abs1
+
+Dimensional models of personality the five factor model and the DSM 5
+2022
+google schoolar : https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&as_ylo=2021&q=16+personality+traits+model&btnG=
+https://www.tandfonline.com/doi/full/10.31887/DCNS.2013.15.2/ttrull?cookieSet=1
+
+Construction of MBTI Personality Estimation Model Considering Emotional Information
+2021
+google schoolar : https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&as_ylo=2021&q=MBTI+model&btnG=
+https://web.archive.org/web/20220806153036id_/https://aclanthology.org/2021.paclic-1.28.pdf
+
+Why Is MBTI Personality Detection from Texts a Difficult Task (Proceeding)
+2021
+google schoolar : https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&as_ylo=2021&q=MBTI+model&btnG=
+https://aclanthology.org/2021.eacl-main.312.pdf
+
+Personality Classification of Facebook Users According to Big Five Personality Using SVM (Support Vector Machine) Method
+2021
+Science Direct
+https://www.sciencedirect.com/science/article/pii/S1877050920324650
+
+A sentiment-aware deep learning approach for personality detection from text
+2021
+Science Direct
+https://www.sciencedirect.com/science/article/pii/S0306457321000406
+
+Predicting personality traits with semantic structures and LSTM-based neural networks
+2022
+Science Direct
+https://www.sciencedirect.com/science/article/pii/S111001682200062X
+
+Psychological Human Traits Detection based on Universal Language Modeling
+2021
+Science Direct
+https://www.sciencedirect.com/science/article/pii/S1110866520301535
